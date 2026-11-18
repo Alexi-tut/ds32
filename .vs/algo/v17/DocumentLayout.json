@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\shado\\source\\repos\\algo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|c:\\users\\shado\\source\\repos\\algo\\algo\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|solutionrelative:algo\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|c:\\users\\shado\\source\\repos\\algo\\algo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|solutionrelative:algo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "autos.cs",
+              "DocumentMoniker": "C:\\Users\\shado\\source\\repos\\algo\\algo\\autos.cs",
+              "RelativeDocumentMoniker": "algo\\autos.cs",
+              "ToolTip": "C:\\Users\\shado\\source\\repos\\algo\\algo\\autos.cs",
+              "RelativeToolTip": "algo\\autos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T14:20:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\shado\\source\\repos\\algo\\algo\\Form1.cs",
               "RelativeDocumentMoniker": "algo\\Form1.cs",
