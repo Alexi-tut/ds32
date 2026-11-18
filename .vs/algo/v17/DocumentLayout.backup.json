@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shado\\source\\repos\\algo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|c:\\users\\shado\\source\\repos\\algo\\algo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B796CAE-95D3-4970-B48D-87FF27D7DA1F}|algo\\algo.csproj|solutionrelative:algo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\shado\\source\\repos\\algo\\algo\\Form1.cs",
+              "RelativeDocumentMoniker": "algo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shado\\source\\repos\\algo\\algo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "algo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T14:03:08.196Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
